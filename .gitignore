@@ -1,3 +1,9 @@
 .vscode/
-test/
 *a.out
+
+gold/
+platinum/
+silver/
+Lv1/
+Lv2/
+Lv3/
